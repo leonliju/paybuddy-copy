@@ -1,0 +1,6 @@
+{
+  "name": "PayBuddy",
+  "description": "Modular AI-powered personal financial intelligence dashboard with CRED-inspired fintech UI, automated transaction ingestion, hybrid categorisation review, ARIMA/LR forecasting, anomaly detection, health vitality score, budget/goal feasibility, and grounded Gemini assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
